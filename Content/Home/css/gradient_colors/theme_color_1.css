@@ -1,0 +1,110 @@
+/*
+Main Color: #9e248e
+Sec Color: #c7148c
+
+background-color: #9e248e;
+background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+*/
+
+.gradient-bg,
+.appsLand-btn.appsLand-btn-gradient:before,
+.mini-feature .mini-feature-box .icon-box:before,
+.pricing .pricing-tables .pricing-recommended .pricing-price,
+.faq .questions-container .panel-heading a.gradient-bg,
+.normal-post .entry-content .entry-post-info .posted-on,
+.list-post .entry-content .entry-post-info .posted-on,
+.loading {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+.without_bg_images .app-overlay {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+.gradient-text,
+.section-title.style-gradient h2,
+.appsLand-btn.appsLand-btn-default,
+.appsLand-btn.appsLand-btn-gradient:hover span,
+.appsLand-btn.appsLand-btn-gradient:hover i,
+.appsLand-btn.appsLand-btn-gradient.btn-inverse span,
+.appsLand-btn.appsLand-btn-gradient.btn-inverse i,
+.mini-feature .mini-feature-box .icon-box i,
+.pricing .pricing-tables .pricing-price p {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+.main-color-text,
+.appsLand-navbar.active-navbar .navbar-nav > li:hover,
+.appsLand-navbar.active-navbar .navbar-nav > li.active,
+.features__style-2 .feat-tabs li a:hover,
+.features__style-2 .feat-tabs li.active a,
+.team .team-member .member-info .member-social a:hover,
+.blog .normal-post .entry-content .entry-post-info h4 a:hover,
+.blog .normal-post .entry-content .entry-expert .post-readMore a.read-more-link,
+.blog .list-post .entry-content .entry-post-info h4 a:hover,
+.blog .list-post .entry-content .entry-expert .post-readMore a.read-more-link,
+.apps-footer .footer-bottom p a {
+    color: #9e248e;
+}
+.sec-color-text,
+.blog .normal-post .entry-content .entry-expert .post-readMore a:hover,
+.blog .list-post .entry-content .entry-expert .post-readMore a:hover,
+.apps-footer .footer-bottom p a:hover {
+    color: #c7148c;
+}
+
+.app-overlay,
+.gradient-bg-rgba,
+.appsLand-navbar.navBar__style-2.active-navbar,
+.team__style-2 .team-member .member-info {
+    background: rgba(158, 36, 142, 0.75);
+		background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+		background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+		background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+		background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+
+.section-title.style-gradient > span:after {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+.section-title.style-gradient > span:before {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+.section-title.style-gradient > span > span {
+    border-image: 1 linear-gradient(-45deg, #9e248e 0%, #c7148c 100%);
+}
+
+.main-color-bg,
+.appsLand-btn.appsLand-btn-blue,
+.appsLand-btn.appsLand-btn-blue.btn-rgba:hover,
+.appsLand-navbar.active-navbar .menu-toggle .chart {
+    background: #9e248e;
+}
+.border-main-color, .features__style-2 .feat-tabs li.active {
+    border-color: #9e248e;
+}
+
+.gradient-text-rgba,
+.testimonials .testimonials-template .testimonials-slide:before,
+.contact .contact-form:before {
+	background-image: -moz-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -o-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: -webkit-linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+	background-image: linear-gradient(top, #c7148c 0%, #c7148c 0.27%, #9e248e 99.46%, #9e248e 100%);
+}
+/*linear-gradient(to right, #9e248e, #c7148c);*/
